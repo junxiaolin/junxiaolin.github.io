@@ -5,7 +5,7 @@ Junxiao Lin. Research previews illustrate papers he coauthored.
 
 | Asset | Source |
 | --- | --- |
-| POISE in-hand reaching | [Fig. 6 of the public paper](https://junxiaolin.github.io/poise/assets/papers/poise.pdf), four experimental panels with the lower legend and caption omitted |
+| POISE in-hand reaching | [Fig. 6 of the public paper](https://junxiaolin.github.io/poise-website/assets/papers/poise.pdf), four experimental panels with the lower legend and caption omitted |
 | FLOAT physical interaction | [Fig. 7, upgraded prototype](https://arxiv.org/html/2607.04260v1/figure/hardware-new.png) |
 | Aggressive aerial maneuvers | [Coauthor's preview of the joint Science Robotics paper](https://tianyueh8erobot.github.io/assets/img/publication_preview/SR.jpg) |
 | Skater | [Fig. 2 of the revised paper](https://arxiv.org/html/2403.01991v2/figures/tabb.png) |
